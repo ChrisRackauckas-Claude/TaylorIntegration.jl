@@ -1,6 +1,6 @@
 name = "TaylorIntegration"
 uuid = "92b13dbe-c966-51a2-8445-caca9f8a7d42"
-version = "0.18.14"
+version = "0.18.15"
 repo = "https://github.com/PerezHz/TaylorIntegration.jl.git"
 
 [deps]
@@ -39,7 +39,7 @@ LinearAlgebra = "<0.0.1, 1"
 Logging = "<0.0.1, 1"
 Markdown = "<0.0.1, 1"
 OrdinaryDiffEqCore = "3.17, 4"
-Parameters = "0.12"
+Parameters = "0.13"
 Pkg = "<0.0.1, 1"
 PkgBenchmark = "0.2"
 RecursiveArrayTools = "2, 3, 4"
